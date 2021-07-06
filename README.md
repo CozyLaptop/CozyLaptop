@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CozyLaptop
 - 👀 I’m interested in coding, graphic design, and game dev!
-- 🌱 I’m currently learning C# and Unity.
+- 🌱 I’m currently learning C#, Unity, Javascript, HTML, and CSS!
 - 💞️ I’m looking to collaborate on projects and more to gain experience.
 - 📫 How to reach me ...
 
