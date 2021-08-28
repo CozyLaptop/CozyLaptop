@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CozyLaptop
 - 👀 I’m interested in javascript, website design, game dev, and everything in between!
-- 🌱 I’m currently learning C#, Unity, Javascript, HTML, CSS, Bootstrap, and JQuery!
-- 💞️ I’m looking to gain my first job as a developer.
+- 📕 Skills: C#, Unity, Javascript, HTML, CSS, Bootstrap, JQuery, AJAX.
+- 🌱 Learning: Solidity, Python, Java, back-end languages.
+- 💞️ I’m looking to gain employment as a developer.
 - 📫 How to reach me...
 
 <!---
