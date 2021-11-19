@@ -3,7 +3,7 @@
 - 📕 Skills: C#, Unity, Javascript, HTML, CSS, Bootstrap, JQuery, AJAX, Java.
 - 🌱 Learning: Blockchain(Solidity), Remix Ethereum, Python, more Java, MYSQL, and other back-end languages.
 - 💞️ I’m looking to gain employment as a developer.
-- 📫 How to reach me...
+- 📫 How to reach me https://www.linkedin.com/in/albert-dominguez-11063a204/
 
 <!---
 CozyLaptop/CozyLaptop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
