@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CozyLaptop (Albert)
 - 👀 I’m interested in website design, cryptocurrency, game dev, machine learning, image manipulation, logistics, and everything in between!
-- 📕 Skills: C#, Unity, Javascript, HTML, CSS, Bootstrap, JQuery, AJAX, Java.
-- 🌱 Learning: Blockchain(Solidity), Remix Ethereum, Python, more Java, MYSQL, and other back-end languages.
-- 💞️ I’m looking to gain employment as a developer.
+- 📕 Skills: C#, Unity, Javascript, HTML, CSS, Bootstrap, JQuery, AJAX, Java, Web3.js, MySQL.
+- 🌱 Learning: Blockchain(Solidity), Remix Ethereum, Python.
+- 💞️ I’m looking to gain employment as a blockchain developer.
 - 📫 How to reach me https://www.linkedin.com/in/albert-dominguez-11063a204/
 
 <!---
